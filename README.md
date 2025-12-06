@@ -10,7 +10,7 @@ Networking fundamentals, IPv4, subnetting
 Operating Systems & Servers  
 Bash scripting practice  
 
-Next: Cloud platforms (AWS/Azure), automation, DevOps, Web 3.0
+Next: Cloud platforms (AWS), automation, DevOps, Web 3.0
 
 ## 🧰 Skills & Tools
 
