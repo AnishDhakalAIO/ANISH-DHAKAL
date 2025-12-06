@@ -1,34 +1,25 @@
-# 👋 Hello there!
+# 👋 Hello, I'm Anish Dhakal
 
-Name: Anish Dhakal  
-Aspiring Role: Cloud Engineer  
-Background: Management (Hospitality)  
-Mission: Transitioning into tech and cloud computing  
-Approach: Learning and growing every single day  
+Aspiring Cloud Engineer transitioning from a hospitality management background into tech. Based in Portugal, I’m building strong foundations in Linux, networking, Python, Bash, and cloud fundamentals, while learning and growing every day.
 
-Aspiring Cloud Engineer transitioning from a management background into tech, building strong skills in systems, automation, and cloud fundamentals.
+## 🚀 Cloud Learning Journey
 
----
+Python (intermediate)  
+Linux (intermediate)  
+Networking fundamentals, IPv4, subnetting  
+Operating Systems & Servers  
+Bash scripting practice  
 
-## 🚀 My Cloud Learning Journey
+Next: Cloud platforms (AWS/Azure), automation, DevOps, Web 3.0
 
-I am actively learning technologies that form the backbone of cloud infrastructure:
+## 🧰 Skills & Tools
 
-**Started with strong fundamentals:**  
-- Python (intermediate)  
-- Hardware basics: form factor, chassis, components  
-- Operating Systems (completed)  
-- Linux (intermediate)  
-- Networking fundamentals  
-- IPv4, subnetting  
-- Servers and how they work  
-- Bash scripting practice  
-
----
+Languages: Python, Bash  
+Core Skills: Linux, Networking, Git, Servers, Scripting  
+Learning: Cloud Computing, Docker, CI/CD
 
 
 ## 📫 Connect With Me
 
 [<img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="24"/>](mailto:anishactitout@gmail.com) anishactitout@gmail.com  
-
 [<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="24"/>](https://www.linkedin.com/in/anish-dhakal-51b424189/) LinkedIn
