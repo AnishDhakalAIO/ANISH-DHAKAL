@@ -26,10 +26,6 @@ I am actively learning technologies that form the backbone of cloud infrastructu
 
 ---
 
-## 📫 Connect With Me
-
-Email- anishactitout@gmail.com
-Linkedin - https://www.linkedin.com/in/anish-dhakal-51b424189/?isSelfProfile=true
 
 ## 📫 Connect With Me
 
