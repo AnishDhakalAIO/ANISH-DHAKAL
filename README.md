@@ -9,14 +9,14 @@ Linux (intermediate)
 Networking fundamentals, IPv4, subnetting  
 Operating Systems & Servers  
 Bash scripting practice  
-
-Next: Cloud platforms (AWS), automation, DevOps, Web 3.0
+az900 ( cloud fundamentals )
+Next: Cloud platforms AZURE , automation, DevOps, Web 3.0
 
 ## 🧰 Skills & Tools
 
 Languages: Python, Bash  
-Core Skills: Linux, Networking, Git, Servers, Scripting  
-Learning: Cloud Computing, Docker, CI/CD
+Core Skills: Linux, Networking, Git & git-hub, Servers, Scripting  , cloud fundamentals , VM, V-NET. 
+Learning: az104, Docker, CI/CD
 
 
 ## 📫 Connect With Me
